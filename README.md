@@ -5,7 +5,7 @@
 Create a `.env` file in the project root:
 
 ```env
-DATABASE_URL="postgresql://postgres:postgres@localhost:5432/digital_card?schema=public"
+DATABASE_URL="postgresql://postgres:postgres@localhost:5432/test_task?schema=public"
 ```
 
 ## Running with Docker
